@@ -14,7 +14,7 @@
   <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="JQUERY" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
-  <img align="right" width="250" src="https://i.ibb.co/ZBg1fth/Ready-Player-Me-Avatar.png" alt="Sergio Costa" border="0" /> <!-- Avatar -->
+  <img align="right" width="350" src="https://i.ibb.co/ZBg1fth/Ready-Player-Me-Avatar.png" alt="Sergio Costa" border="0" /> <!-- Avatar -->
 </div>
   
   ##
