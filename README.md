@@ -1,4 +1,4 @@
-## Olá! Eu sou o Sergio Costa e trabalho como Front-End Developer.
+## Olá! Eu sou o Sergio Costa e sou Web Developer.
 <div align="center">
   <a https://github.com/scostadeveloper">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=scostadeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -6,12 +6,14 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="c#" height="50" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png)" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="SQL Server" height="40" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn-icons-png.flaticon.com/512/5815/5815886.png)" />
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="JQUERY" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="right" width="350" src="https://i.ibb.co/ZBg1fth/Ready-Player-Me-Avatar.png" alt="Sergio Costa" border="0" /> <!-- Avatar -->
