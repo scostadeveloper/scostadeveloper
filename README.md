@@ -12,7 +12,7 @@
   <img align="center" alt="Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg" />
+  <img align="center" alt="SQL Server" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg" />
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="JQUERY" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img align="right" width="350" src="https://i.ibb.co/ZBg1fth/Ready-Player-Me-Avatar.png" alt="Sergio Costa" border="0" /> <!-- Avatar -->
