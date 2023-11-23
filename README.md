@@ -6,9 +6,8 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="c#" height="50" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png)" />
+  <img align="center" alt="c#" height="50" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
